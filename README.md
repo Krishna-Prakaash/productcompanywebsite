@@ -2,7 +2,7 @@
 
 ## AIM:
 
-To design a static website for a software product company company.
+To design a static website for a business.
 
 ## DESIGN STEPS:
 
@@ -496,4 +496,4 @@ CONTACTUS PAGE:
 ![output4](./images/SSS4.png)
 ## Result:
 
-Thus a website is designed for the software product company and the HTML,CSS code are validated.
+Thus a website is designed for the Buisness and the HTML,CSS code are validated.
